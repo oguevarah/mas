@@ -1,0 +1,183 @@
+SERVER ocp4-lh.cloudteco.com.ar 123456789012 27000
+VENDOR ibmratl
+VENDOR telelogic
+VENDOR rational
+
+INCREMENT AppPoints ibmratl 1.0 permanent 50 vendor_info="0|IBM \
+	Maximo AppPoints Pool|0" ISSUED=24-Apr-2023 NOTICE="Sales \
+	Order Number:0063302567;Account ID:0007129104;Customer \
+	Name:IBM Customer Name;ICN:148960;Purchase \
+	Order:2106098789186-3;Contract:0000007827;Country:AR" \
+	SIGN="00C5 4745 9E01 8384 DB9A E4F0 2BA2 F900 26D2 7005 205C \
+	5AF2 F628 C104 1613"
+
+INCREMENT MAS-Admin-Limited ibmratl 1.0 permanent 1 \
+	VENDOR_STRING=IBM:t,AppPoints,1.0,MAS-Admin-Limited,5 \
+	ISSUED=24-Apr-2023 NOTICE="Sales Order \
+	Number:0063302567;Account ID:0007129104;Customer Name:IBM \
+	Customer Name;ICN:148960;Purchase \
+	Order:2106098789186-3;Contract:0000007827;Country:AR" \
+	SIGN="0040 5A86 B867 6B07 439E 7E57 C7A7 6800 207D 422E 825C \
+	A536 1D58 DC76 D055"
+
+INCREMENT MAS-Admin-Base ibmratl 1.0 permanent 1 \
+	VENDOR_STRING=IBM:t,AppPoints,1.0,MAS-Admin-Base,10 \
+	ISSUED=24-Apr-2023 NOTICE="Sales Order \
+	Number:0063302567;Account ID:0007129104;Customer Name:IBM \
+	Customer Name;ICN:148960;Purchase \
+	Order:2106098789186-3;Contract:0000007827;Country:AR" \
+	SIGN="009E 25AA 4436 5821 8444 226F 3332 2600 DD4E 5BF3 2ADE \
+	5D03 2D34 4C05 416C"
+
+INCREMENT MAS-Admin-Premium ibmratl 1.0 permanent 1 \
+	VENDOR_STRING=IBM:t,AppPoints,1.0,MAS-Admin-Premium,15 \
+	ISSUED=24-Apr-2023 NOTICE="Sales Order \
+	Number:0063302567;Account ID:0007129104;Customer Name:IBM \
+	Customer Name;ICN:148960;Purchase \
+	Order:2106098789186-3;Contract:0000007827;Country:AR" \
+	SIGN="008E EBCC 7B66 1C19 2422 35A0 A4F2 B600 8EC4 8C90 FCAD \
+	5836 8523 0EBF 8FE2"
+
+INCREMENT MAS-API-Limited ibmratl 1.0 permanent 1 \
+	VENDOR_STRING=IBM:t,AppPoints,1.0,MAS-API-Limited,5 \
+	ISSUED=24-Apr-2023 NOTICE="Sales Order \
+	Number:0063302567;Account ID:0007129104;Customer Name:IBM \
+	Customer Name;ICN:148960;Purchase \
+	Order:2106098789186-3;Contract:0000007827;Country:AR" \
+	SIGN="004E 8B23 41A7 3AA7 FC03 A1B9 2C9E 9800 DE54 CE19 AE0E \
+	938B 954A A946 68A4"
+
+INCREMENT MAS-API-Base ibmratl 1.0 permanent 1 \
+	VENDOR_STRING=IBM:t,AppPoints,1.0,MAS-API-Base,10 \
+	ISSUED=24-Apr-2023 NOTICE="Sales Order \
+	Number:0063302567;Account ID:0007129104;Customer Name:IBM \
+	Customer Name;ICN:148960;Purchase \
+	Order:2106098789186-3;Contract:0000007827;Country:AR" \
+	SIGN="0070 2CBB 358E 2BF9 D0BD 58E5 755C 5300 1F0B 38DE 553A \
+	89A7 E7CA 5E20 4FDD"
+
+INCREMENT MAS-API-Premium ibmratl 1.0 permanent 1 \
+	VENDOR_STRING=IBM:t,AppPoints,1.0,MAS-API-Premium,15 \
+	ISSUED=24-Apr-2023 NOTICE="Sales Order \
+	Number:0063302567;Account ID:0007129104;Customer Name:IBM \
+	Customer Name;ICN:148960;Purchase \
+	Order:2106098789186-3;Contract:0000007827;Country:AR" \
+	SIGN="00AA 9FB4 BDE3 0857 83E2 C0DA 7643 DF00 CBC0 D766 F72A \
+	568B 2542 9833 ACBB"
+
+INCREMENT MAS-Limited ibmratl 1.0 permanent 1 \
+	VENDOR_STRING=IBM:t,AppPoints,1.0,MAS-Limited,5 \
+	ISSUED=24-Apr-2023 NOTICE="Sales Order \
+	Number:0063302567;Account ID:0007129104;Customer Name:IBM \
+	Customer Name;ICN:148960;Purchase \
+	Order:2106098789186-3;Contract:0000007827;Country:AR" \
+	SIGN="008D B98E 4849 AC7B 9D80 49C6 22B5 BF00 FC1E FDA6 A119 \
+	F2E6 DC8C 36D7 7CA1"
+
+INCREMENT MAS-Base ibmratl 1.0 permanent 1 \
+	VENDOR_STRING=IBM:t,AppPoints,1.0,MAS-Base,10 \
+	ISSUED=24-Apr-2023 NOTICE="Sales Order \
+	Number:0063302567;Account ID:0007129104;Customer Name:IBM \
+	Customer Name;ICN:148960;Purchase \
+	Order:2106098789186-3;Contract:0000007827;Country:AR" \
+	SIGN="0032 6C06 6962 2DC1 1F44 948D 4F79 1C00 1411 DF49 EDAC \
+	6DD8 FDD5 2ECC EF1A"
+
+INCREMENT MAS-Premium ibmratl 1.0 permanent 1 \
+	VENDOR_STRING=IBM:t,AppPoints,1.0,MAS-Premium,15 \
+	ISSUED=24-Apr-2023 NOTICE="Sales Order \
+	Number:0063302567;Account ID:0007129104;Customer Name:IBM \
+	Customer Name;ICN:148960;Purchase \
+	Order:2106098789186-3;Contract:0000007827;Country:AR" \
+	SIGN="0030 B01B B21C 2588 BACC 281F 6F5F F200 AEE5 4664 C06F \
+	6CA8 49EE 2832 456C"
+
+INCREMENT MAS-Add-On-Limited ibmratl 1.0 permanent 1 \
+	VENDOR_STRING=IBM:t,AppPoints,1.0,MAS-Add-On-Limited,5 \
+	ISSUED=24-Apr-2023 NOTICE="Sales Order \
+	Number:0063302567;Account ID:0007129104;Customer Name:IBM \
+	Customer Name;ICN:148960;Purchase \
+	Order:2106098789186-3;Contract:0000007827;Country:AR" \
+	SIGN="004E 61F3 81EE A5F2 FBE5 4C1A C4CF 6900 E559 4E66 CD00 \
+	7BF1 202A EA48 A4A9"
+
+INCREMENT MAS-Add-On-Base ibmratl 1.0 permanent 1 \
+	VENDOR_STRING=IBM:t,AppPoints,1.0,MAS-Add-On-Base,10 \
+	ISSUED=24-Apr-2023 NOTICE="Sales Order \
+	Number:0063302567;Account ID:0007129104;Customer Name:IBM \
+	Customer Name;ICN:148960;Purchase \
+	Order:2106098789186-3;Contract:0000007827;Country:AR" \
+	SIGN="008A ED63 443A D7A5 2F75 8326 854D FD00 11B1 3A8E A80F \
+	371D 0154 3169 8C58"
+
+INCREMENT MAS-Add-On-Premium ibmratl 1.0 permanent 1 \
+	VENDOR_STRING=IBM:t,AppPoints,1.0,MAS-Add-On-Premium,15 \
+	ISSUED=24-Apr-2023 NOTICE="Sales Order \
+	Number:0063302567;Account ID:0007129104;Customer Name:IBM \
+	Customer Name;ICN:148960;Purchase \
+	Order:2106098789186-3;Contract:0000007827;Country:AR" \
+	SIGN="0094 2120 9572 E6D5 66B9 E780 21CD 5600 5A06 BB18 3D7B \
+	0D17 D162 5528 EAE0"
+
+INCREMENT MAS-Server-Limited ibmratl 1.0 permanent 1 \
+	VENDOR_STRING=IBM:t,AppPoints,1.0,MAS-Server-Limited,5 \
+	ISSUED=24-Apr-2023 NOTICE="Sales Order \
+	Number:0063302567;Account ID:0007129104;Customer Name:IBM \
+	Customer Name;ICN:148960;Purchase \
+	Order:2106098789186-3;Contract:0000007827;Country:AR" \
+	SIGN="00AB E8D5 471F F2E3 B9BB A2B2 1DD6 AF00 6C65 E17F B1E2 \
+	28FC 120A 4B9E 442F"
+
+INCREMENT MAS-Server-Base ibmratl 1.0 permanent 1 \
+	VENDOR_STRING=IBM:t,AppPoints,1.0,MAS-Server-Base,10 \
+	ISSUED=24-Apr-2023 NOTICE="Sales Order \
+	Number:0063302567;Account ID:0007129104;Customer Name:IBM \
+	Customer Name;ICN:148960;Purchase \
+	Order:2106098789186-3;Contract:0000007827;Country:AR" \
+	SIGN="00E0 5EEC 58E5 0A18 503E 554F 30F8 7B00 8865 9066 FBE8 \
+	B96E BABD 48A4 0782"
+
+INCREMENT MAS-Server-Premium ibmratl 1.0 permanent 1 \
+	VENDOR_STRING=IBM:t,AppPoints,1.0,MAS-Server-Premium,15 \
+	ISSUED=24-Apr-2023 NOTICE="Sales Order \
+	Number:0063302567;Account ID:0007129104;Customer Name:IBM \
+	Customer Name;ICN:148960;Purchase \
+	Order:2106098789186-3;Contract:0000007827;Country:AR" \
+	SIGN="00CB B93F 4F88 5E8B 92FD 92C1 C830 2800 819A BFEA 5145 \
+	7C88 5B21 A387 0313"
+
+INCREMENT MAS-SelfService ibmratl 1.0 permanent 1 \
+	VENDOR_STRING=IBM:t,AppPoints,1.0,MAS-SelfService,0 \
+	ISSUED=24-Apr-2023 NOTICE="Sales Order \
+	Number:0063302567;Account ID:0007129104;Customer Name:IBM \
+	Customer Name;ICN:148960;Purchase \
+	Order:2106098789186-3;Contract:0000007827;Country:AR" \
+	SIGN="00EF 6A57 52CB 6291 A4B5 4DC1 15F8 6900 FD4F 5ABA 9D3E \
+	CCC0 5EBB A0E7 EA65"
+
+INCREMENT MAS-Limited-Authorized ibmratl 1.0 permanent 1 \
+	VENDOR_STRING=IBM:t,AppPoints,1.0,MAS-Limited-Authorized,2 \
+	ISSUED=24-Apr-2023 NOTICE="Sales Order \
+	Number:0063302567;Account ID:0007129104;Customer Name:IBM \
+	Customer Name;ICN:148960;Purchase \
+	Order:2106098789186-3;Contract:0000007827;Country:AR" \
+	SIGN="001A E532 FA06 64C3 9E8A 991E A8B7 3D00 B0E4 03F4 9CF6 \
+	35A3 7621 3A8A 57AB"
+
+INCREMENT MAS-Base-Authorized ibmratl 1.0 permanent 1 \
+	VENDOR_STRING=IBM:t,AppPoints,1.0,MAS-Base-Authorized,3 \
+	ISSUED=24-Apr-2023 NOTICE="Sales Order \
+	Number:0063302567;Account ID:0007129104;Customer Name:IBM \
+	Customer Name;ICN:148960;Purchase \
+	Order:2106098789186-3;Contract:0000007827;Country:AR" \
+	SIGN="00D2 B487 B0AA 185D B065 05D2 10B8 8D00 7AA8 D56D 7AD2 \
+	4C97 E323 72D7 936D"
+
+INCREMENT MAS-Premium-Authorized ibmratl 1.0 permanent 1 \
+	VENDOR_STRING=IBM:t,AppPoints,1.0,MAS-Premium-Authorized,5 \
+	ISSUED=24-Apr-2023 NOTICE="Sales Order \
+	Number:0063302567;Account ID:0007129104;Customer Name:IBM \
+	Customer Name;ICN:148960;Purchase \
+	Order:2106098789186-3;Contract:0000007827;Country:AR" \
+	SIGN="00C2 A55E A06C 0C17 16C3 D31A 2C4B 6C00 819F 3775 B7FA \
+	C6A6 E72E 5656 F46C"
